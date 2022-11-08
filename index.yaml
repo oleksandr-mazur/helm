@@ -3,7 +3,7 @@ entries:
   imap2telegram-helm:
   - apiVersion: v2
     appVersion: 0.1.2
-    created: "2022-11-01T20:31:21.767347834Z"
+    created: "2022-11-08T21:01:34.183747955Z"
     description: A Helm chart for Kubernetes
     digest: 2c46c8d34ba3911596c8bdd4712c19d3c4e908bfb640732ab9a681b81c57bb76
     name: imap2telegram-helm
@@ -13,7 +13,7 @@ entries:
     version: 0.1.2
   - apiVersion: v2
     appVersion: 0.1.1
-    created: "2022-11-01T20:31:21.766627326Z"
+    created: "2022-11-08T21:01:34.183248939Z"
     description: A Helm chart for Kubernetes
     digest: fec25bd677a99e139f39f807ed53c6ff5663cab4039e870ad5965873a73a37d4
     name: imap2telegram-helm
@@ -23,7 +23,7 @@ entries:
     version: 0.1.1
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2022-11-01T20:31:21.764067795Z"
+    created: "2022-11-08T21:01:34.182719121Z"
     description: A Helm chart for Kubernetes
     digest: 9694fe77f19de64ca1f49584c9ffd6f2c0f9cc069dfb94189ffe96b48bb7565d
     name: imap2telegram-helm
@@ -43,7 +43,7 @@ entries:
     version: 0.0.10
   - apiVersion: v2
     appVersion: 0.0.5
-    created: "2022-11-01T20:31:21.763552089Z"
+    created: "2022-11-08T21:01:34.181948496Z"
     description: A Helm chart for Kubernetes
     digest: c4e04aed69465940d3e203b404a30197e97b0bd2f13aca80faaaf8a12ca69964
     name: imap2telegram-helm
@@ -53,8 +53,18 @@ entries:
     version: 0.0.5
   pay:
   - apiVersion: v2
+    appVersion: 0.0.5
+    created: "2022-11-08T21:01:34.187062864Z"
+    description: A Helm chart for Kubernetes
+    digest: 9db83df94118ad6dbad6185fede6ec00d40fb2bfe383dddbcc04223368809cf3
+    name: pay
+    type: application
+    urls:
+    - https://oleksandr-mazur.github.io/helm/pay-0.0.5.tgz
+    version: 0.0.5
+  - apiVersion: v2
     appVersion: 0.0.3
-    created: "2022-11-01T20:31:21.771413883Z"
+    created: "2022-11-08T21:01:34.186012529Z"
     description: A Helm chart for Kubernetes
     digest: c7000326b3d158630a4c60a647711d16627767c752455e8d1b2ffb7fe5e81fbe
     name: pay
@@ -64,7 +74,7 @@ entries:
     version: 0.0.3
   - apiVersion: v2
     appVersion: 0.0.2
-    created: "2022-11-01T20:31:21.770171668Z"
+    created: "2022-11-08T21:01:34.185332007Z"
     description: A Helm chart for Kubernetes
     digest: a5cfde9989bd73335f143dbbd15a51268562ac0489e9caeb74377bb04156a879
     name: pay
@@ -74,7 +84,7 @@ entries:
     version: 0.0.2
   - apiVersion: v2
     appVersion: 0.0.1
-    created: "2022-11-01T20:31:21.769051755Z"
+    created: "2022-11-08T21:01:34.184647284Z"
     description: A Helm chart for Kubernetes
     digest: 3eb8961cb7dbb295abdc032e39637e6f7f0427092f27a753c671ca260cb37184
     name: pay
@@ -82,4 +92,4 @@ entries:
     urls:
     - https://oleksandr-mazur.github.io/helm/pay-0.0.1.tgz
     version: 0.0.1
-generated: "2022-11-01T20:31:21.762862881Z"
+generated: "2022-11-08T21:01:34.181371177Z"
