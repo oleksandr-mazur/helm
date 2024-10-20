@@ -3,7 +3,7 @@ entries:
   devops:
   - apiVersion: v2
     appVersion: 0.7.2
-    created: "2024-10-19T19:29:50.981866507Z"
+    created: "2024-10-20T20:26:51.970153692Z"
     description: A Helm chart for Kubernetes
     digest: 7c76aabe88f0fb8c0f873ee27576d97070608481791e67f753971746c6aaeede
     name: devops
@@ -13,7 +13,7 @@ entries:
     version: 0.7.2
   - apiVersion: v2
     appVersion: 0.7.1
-    created: "2024-10-19T19:29:50.980940676Z"
+    created: "2024-10-20T20:26:51.96977527Z"
     description: A Helm chart for Kubernetes
     digest: 56dcb5ab176ca067dca471d8b593f8a632f531674d4a45d0561852cb4b32bbef
     name: devops
@@ -23,7 +23,7 @@ entries:
     version: 0.7.1
   - apiVersion: v2
     appVersion: 0.7.0
-    created: "2024-10-19T19:29:50.980572312Z"
+    created: "2024-10-20T20:26:51.969399823Z"
     description: A Helm chart for Kubernetes
     digest: 5cded4f70421d33a64ed228163e752b0da456d5b77a93908b96bc2b28bc122c7
     name: devops
@@ -33,7 +33,7 @@ entries:
     version: 0.7.0
   - apiVersion: v2
     appVersion: 0.6.0
-    created: "2024-10-19T19:29:50.980205219Z"
+    created: "2024-10-20T20:26:51.969018385Z"
     description: A Helm chart for Kubernetes
     digest: 3c6bcc0a43e041526e7a639a415f0de2ada881e0ed0824bae89fdc057b08a545
     name: devops
@@ -43,7 +43,7 @@ entries:
     version: 0.6.0
   - apiVersion: v2
     appVersion: 0.5.0
-    created: "2024-10-19T19:29:50.979828489Z"
+    created: "2024-10-20T20:26:51.968640894Z"
     description: A Helm chart for Kubernetes
     digest: a831f4d42b4d2656644ffa93b1c0ea7fb70fe30d4270eb09e0a169763db089bd
     name: devops
@@ -53,7 +53,7 @@ entries:
     version: 0.5.0
   - apiVersion: v2
     appVersion: 0.4.1
-    created: "2024-10-19T19:29:50.979460886Z"
+    created: "2024-10-20T20:26:51.968237986Z"
     description: A Helm chart for Kubernetes
     digest: f4eb084b9b70245dc8f8333e1d743d6cb9d10929a008763f9e43bfced23d8197
     name: devops
@@ -63,7 +63,7 @@ entries:
     version: 0.4.1
   - apiVersion: v2
     appVersion: 0.4.0
-    created: "2024-10-19T19:29:50.979091319Z"
+    created: "2024-10-20T20:26:51.967776637Z"
     description: A Helm chart for Kubernetes
     digest: 0101cb225c2ea6a94175ba66913c6448cd56e52479aab11668b4dd7f037fd06f
     name: devops
@@ -73,7 +73,7 @@ entries:
     version: 0.4.0
   - apiVersion: v2
     appVersion: 0.3.25
-    created: "2024-10-19T19:29:50.97608357Z"
+    created: "2024-10-20T20:26:51.963832689Z"
     description: A Helm chart for Kubernetes
     digest: 140d19c8c82025f3895358f0f0efbd011a7accac9a0ba559a81d8776483a55ab
     name: devops
@@ -83,7 +83,7 @@ entries:
     version: 0.3.25
   - apiVersion: v2
     appVersion: 0.3.24
-    created: "2024-10-19T19:29:50.975708843Z"
+    created: "2024-10-20T20:26:51.963416155Z"
     description: A Helm chart for Kubernetes
     digest: 17fdaf7bd9449f7199e21777ffa90388910e44ff34ff97f66952ff55b837b0c9
     name: devops
@@ -93,7 +93,7 @@ entries:
     version: 0.3.24
   - apiVersion: v2
     appVersion: 0.3.23
-    created: "2024-10-19T19:29:50.97532529Z"
+    created: "2024-10-20T20:26:51.963045357Z"
     description: A Helm chart for Kubernetes
     digest: 1c58b6862ce00fc421513451d92b452bacdcb57d4164cb9c782d5e7ed58487da
     name: devops
@@ -103,7 +103,7 @@ entries:
     version: 0.3.23
   - apiVersion: v2
     appVersion: 0.3.22
-    created: "2024-10-19T19:29:50.974944182Z"
+    created: "2024-10-20T20:26:51.962669349Z"
     description: A Helm chart for Kubernetes
     digest: 9350488869353ce257e9eff1650ab96db5bc2b05f83ae815c2edca99e4029df9
     name: devops
@@ -113,7 +113,7 @@ entries:
     version: 0.3.22
   - apiVersion: v2
     appVersion: 0.3.21
-    created: "2024-10-19T19:29:50.974553936Z"
+    created: "2024-10-20T20:26:51.962280306Z"
     description: A Helm chart for Kubernetes
     digest: 46fb374eac1681be57e80d9209a5226796605eb9f71f315d4d1f32f76705e7b3
     name: devops
@@ -123,7 +123,7 @@ entries:
     version: 0.3.21
   - apiVersion: v2
     appVersion: 0.3.20
-    created: "2024-10-19T19:29:50.97393186Z"
+    created: "2024-10-20T20:26:51.961897145Z"
     description: A Helm chart for Kubernetes
     digest: 3a549df44e2cfa365e4df796f143c80c713d32a6864f31cb43a96544d16a0e6e
     name: devops
@@ -133,7 +133,7 @@ entries:
     version: 0.3.20
   - apiVersion: v2
     appVersion: 0.3.19
-    created: "2024-10-19T19:29:50.972443694Z"
+    created: "2024-10-20T20:26:51.960946976Z"
     description: A Helm chart for Kubernetes
     digest: 4477581cb5650ec379ce41f1de3320897b2baf1249cf465ed6db2dbac69a435e
     name: devops
@@ -143,7 +143,7 @@ entries:
     version: 0.3.19
   - apiVersion: v2
     appVersion: 0.3.18
-    created: "2024-10-19T19:29:50.972069629Z"
+    created: "2024-10-20T20:26:51.960314856Z"
     description: A Helm chart for Kubernetes
     digest: 20bfccc47ce38bd28d9b57a165637367e1010b3ca1f4df70e5594b6417f207be
     name: devops
@@ -153,7 +153,7 @@ entries:
     version: 0.3.18
   - apiVersion: v2
     appVersion: 0.3.17
-    created: "2024-10-19T19:29:50.971694442Z"
+    created: "2024-10-20T20:26:51.959912788Z"
     description: A Helm chart for Kubernetes
     digest: 1bbc2f21866d4cba13bf4532f582c768d8afd2a944b27fc6975dfe49695ec8b6
     name: devops
@@ -163,7 +163,7 @@ entries:
     version: 0.3.17
   - apiVersion: v2
     appVersion: 0.3.16
-    created: "2024-10-19T19:29:50.971315788Z"
+    created: "2024-10-20T20:26:51.959436181Z"
     description: A Helm chart for Kubernetes
     digest: 0301929a69c0feff84e69683858bdc5b01d6e6ab4bc83c0649b8269a44127769
     name: devops
@@ -173,7 +173,7 @@ entries:
     version: 0.3.16
   - apiVersion: v2
     appVersion: 0.3.15
-    created: "2024-10-19T19:29:50.970926926Z"
+    created: "2024-10-20T20:26:51.958642683Z"
     description: A Helm chart for Kubernetes
     digest: 47ef199fffaa5010c947d1ad06b05c2529966ff0010f16148a81f8915b492720
     name: devops
@@ -183,7 +183,7 @@ entries:
     version: 0.3.15
   - apiVersion: v2
     appVersion: 0.3.14
-    created: "2024-10-19T19:29:50.970548442Z"
+    created: "2024-10-20T20:26:51.957480895Z"
     description: A Helm chart for Kubernetes
     digest: 07cce9934d7242d3e767443627ebdef653325946d6a565cda9d877175867bc1e
     name: devops
@@ -193,7 +193,7 @@ entries:
     version: 0.3.14
   - apiVersion: v2
     appVersion: 0.3.13
-    created: "2024-10-19T19:29:50.970171522Z"
+    created: "2024-10-20T20:26:51.956742335Z"
     description: A Helm chart for Kubernetes
     digest: b2a4ea707d08798509c77d61799f8e51048c9a2dcaf7e59e58e0ccaf1caaa600
     name: devops
@@ -203,7 +203,7 @@ entries:
     version: 0.3.13
   - apiVersion: v2
     appVersion: 0.3.12
-    created: "2024-10-19T19:29:50.969787989Z"
+    created: "2024-10-20T20:26:51.955982534Z"
     description: A Helm chart for Kubernetes
     digest: f4b92b3459c006117832b7f93dbd6131e6fd70d502fced9a24f5349927f0fefc
     name: devops
@@ -213,7 +213,7 @@ entries:
     version: 0.3.12
   - apiVersion: v2
     appVersion: 0.3.11
-    created: "2024-10-19T19:29:50.969361827Z"
+    created: "2024-10-20T20:26:51.955239105Z"
     description: A Helm chart for Kubernetes
     digest: 0065d791cb786b83f2d47970cd75b5d07e17aef8bd6c95793681738fc3eefecf
     name: devops
@@ -223,7 +223,7 @@ entries:
     version: 0.3.11
   - apiVersion: v2
     appVersion: 0.3.10
-    created: "2024-10-19T19:29:50.968979456Z"
+    created: "2024-10-20T20:26:51.954422527Z"
     description: A Helm chart for Kubernetes
     digest: 0bc244ed7667af8e0f81eac33797691195f8ffd11d408a019f7d76d6f4c9a1aa
     name: devops
@@ -233,7 +233,7 @@ entries:
     version: 0.3.10
   - apiVersion: v2
     appVersion: 0.3.9
-    created: "2024-10-19T19:29:50.978721332Z"
+    created: "2024-10-20T20:26:51.967150138Z"
     description: A Helm chart for Kubernetes
     digest: afdb48aab6f98614a546879ad25c2237915f43e665e7a56a2f896543f1d0c3b5
     name: devops
@@ -243,7 +243,7 @@ entries:
     version: 0.3.9
   - apiVersion: v2
     appVersion: 0.3.8
-    created: "2024-10-19T19:29:50.978350743Z"
+    created: "2024-10-20T20:26:51.966101861Z"
     description: A Helm chart for Kubernetes
     digest: 9684d6332ef497b9ac579e5468d554a4dedaef777e82b20d934f9a434a337952
     name: devops
@@ -253,7 +253,7 @@ entries:
     version: 0.3.8
   - apiVersion: v2
     appVersion: 0.3.7
-    created: "2024-10-19T19:29:50.977974544Z"
+    created: "2024-10-20T20:26:51.965725012Z"
     description: A Helm chart for Kubernetes
     digest: 193e59cef83189e5b88d56124993e8d6dd7e3c9d637b7639cdc50b15a9d2b3c4
     name: devops
@@ -263,7 +263,7 @@ entries:
     version: 0.3.7
   - apiVersion: v2
     appVersion: 0.3.6
-    created: "2024-10-19T19:29:50.977553692Z"
+    created: "2024-10-20T20:26:51.965342943Z"
     description: A Helm chart for Kubernetes
     digest: 467af22768c162c257c6b326ae9a6768b4b7dfa674aba22d60ec05413f807928
     name: devops
@@ -273,7 +273,7 @@ entries:
     version: 0.3.6
   - apiVersion: v2
     appVersion: 0.3.5
-    created: "2024-10-19T19:29:50.977182031Z"
+    created: "2024-10-20T20:26:51.964966944Z"
     description: A Helm chart for Kubernetes
     digest: 54cb4d12e8d9f68d52940e161b913f601742cf09bdb06682d9c10850ed50f24a
     name: devops
@@ -283,7 +283,7 @@ entries:
     version: 0.3.5
   - apiVersion: v2
     appVersion: 0.3.4
-    created: "2024-10-19T19:29:50.976815319Z"
+    created: "2024-10-20T20:26:51.964593011Z"
     description: A Helm chart for Kubernetes
     digest: c31897fe52763deeb6d370a878fd2204b54274c6f9af152f757853c3016589e7
     name: devops
@@ -293,7 +293,7 @@ entries:
     version: 0.3.4
   - apiVersion: v2
     appVersion: 0.3.3
-    created: "2024-10-19T19:29:50.976447536Z"
+    created: "2024-10-20T20:26:51.96420484Z"
     description: A Helm chart for Kubernetes
     digest: 78158006743afe40ce69f551f80505bbe95a1c171cbe0070fd63c2cb2ee4cf2f
     name: devops
@@ -303,7 +303,7 @@ entries:
     version: 0.3.3
   - apiVersion: v2
     appVersion: 0.3.2
-    created: "2024-10-19T19:29:50.972824893Z"
+    created: "2024-10-20T20:26:51.961505527Z"
     description: A Helm chart for Kubernetes
     digest: 56c02e64f765da4b01bf88cebc4689481592fe5a08e1dc77eeaa004ea9841eb0
     name: devops
@@ -313,7 +313,7 @@ entries:
     version: 0.3.2
   - apiVersion: v2
     appVersion: 0.3.1
-    created: "2024-10-19T19:29:50.968599871Z"
+    created: "2024-10-20T20:26:51.953665542Z"
     description: A Helm chart for Kubernetes
     digest: 92e353a2346e3c2b28e56b704f0bc2e87c3969232d6169c7cb31ac29545bd854
     name: devops
@@ -323,7 +323,7 @@ entries:
     version: 0.3.1
   - apiVersion: v2
     appVersion: 0.3.0
-    created: "2024-10-19T19:29:50.968222549Z"
+    created: "2024-10-20T20:26:51.952915219Z"
     description: A Helm chart for Kubernetes
     digest: d224e208cd4fd22b463c3ac03a617a73168b077a85ec55212ba1f6d8d7e3d5ee
     name: devops
@@ -333,7 +333,7 @@ entries:
     version: 0.3.0
   - apiVersion: v2
     appVersion: 0.2.1
-    created: "2024-10-19T19:29:50.967770499Z"
+    created: "2024-10-20T20:26:51.952213729Z"
     description: A Helm chart for Kubernetes
     digest: 8d92dd7e5d483d8fcb750932522a85b4325d852f081ccdcb1d5b9614c4a07afd
     name: devops
@@ -343,7 +343,7 @@ entries:
     version: 0.2.1
   - apiVersion: v2
     appVersion: 0.2.0
-    created: "2024-10-19T19:29:50.96739976Z"
+    created: "2024-10-20T20:26:51.951421367Z"
     description: A Helm chart for Kubernetes
     digest: ad9bb17334cdb578cd055cc777ff6d44874bbc7d3561f07fa94e581f8449a774
     name: devops
@@ -353,7 +353,7 @@ entries:
     version: 0.2.0
   - apiVersion: v2
     appVersion: 0.1.3
-    created: "2024-10-19T19:29:50.967028741Z"
+    created: "2024-10-20T20:26:51.950669171Z"
     description: A Helm chart for Kubernetes
     digest: fbf0e0b2f6200f250906ac9c45b75e5546671532f227c530f888824ca03de988
     name: devops
@@ -363,7 +363,7 @@ entries:
     version: 0.1.3
   - apiVersion: v2
     appVersion: 0.1.2
-    created: "2024-10-19T19:29:50.966644286Z"
+    created: "2024-10-20T20:26:51.949933676Z"
     description: A Helm chart for Kubernetes
     digest: eb1608dd118af55e417c69884a38aa2eb492cc7e207013609e75a9ee7a7fcd4a
     name: devops
@@ -373,7 +373,7 @@ entries:
     version: 0.1.2
   - apiVersion: v2
     appVersion: 0.1.1
-    created: "2024-10-19T19:29:50.966235266Z"
+    created: "2024-10-20T20:26:51.949204212Z"
     description: A Helm chart for Kubernetes
     digest: 6d455c0308dfd886dc7514f032c926f2a9fbbbda5f362258231266eb463a945c
     name: devops
@@ -383,7 +383,7 @@ entries:
     version: 0.1.1
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-10-19T19:29:50.965133332Z"
+    created: "2024-10-20T20:26:51.948491731Z"
     description: A Helm chart for Kubernetes
     digest: 379c25c43914738f047dfe2e3219cbf735e04f4357d1f1082fa975ffe2b8019c
     name: devops
@@ -393,7 +393,7 @@ entries:
     version: 0.1.0
   - apiVersion: v2
     appVersion: 0.0.14
-    created: "2024-10-19T19:29:50.96186044Z"
+    created: "2024-10-20T20:26:51.942818082Z"
     description: A Helm chart for Kubernetes
     digest: 7ec519473bdf075e6d816d74fb20614f643a30b87f1d6cdea361f882b30a0eff
     name: devops
@@ -403,7 +403,7 @@ entries:
     version: 0.0.14
   - apiVersion: v2
     appVersion: 0.0.13
-    created: "2024-10-19T19:29:50.961441271Z"
+    created: "2024-10-20T20:26:51.942421094Z"
     description: A Helm chart for Kubernetes
     digest: 9bb3d26a017e8063fa719b4f87bac7886a083401624729fafc9c28a173945218
     name: devops
@@ -413,7 +413,7 @@ entries:
     version: 0.0.13
   - apiVersion: v2
     appVersion: 0.0.12
-    created: "2024-10-19T19:29:50.961046237Z"
+    created: "2024-10-20T20:26:51.942037652Z"
     description: A Helm chart for Kubernetes
     digest: f787336ffae3091ea4df747dba077f56593335df48b03d6f15d35e4ee30790e9
     name: devops
@@ -423,7 +423,7 @@ entries:
     version: 0.0.12
   - apiVersion: v2
     appVersion: 0.0.11
-    created: "2024-10-19T19:29:50.960673754Z"
+    created: "2024-10-20T20:26:51.941651245Z"
     description: A Helm chart for Kubernetes
     digest: 26fa6fa83fbfc8fa62f40e6e349b7ddfbce4ad98e8b4127158c1652a8b6a8fb8
     name: devops
@@ -433,7 +433,7 @@ entries:
     version: 0.0.11
   - apiVersion: v2
     appVersion: 0.0.10
-    created: "2024-10-19T19:29:50.960262811Z"
+    created: "2024-10-20T20:26:51.941248927Z"
     description: A Helm chart for Kubernetes
     digest: aa3827faa833bdbaf758f91eac2dd21c175a8fab84eec82c657d151a78527276
     name: devops
@@ -443,7 +443,7 @@ entries:
     version: 0.0.10
   - apiVersion: v2
     appVersion: 0.0.9
-    created: "2024-10-19T19:29:50.96473392Z"
+    created: "2024-10-20T20:26:51.947791002Z"
     description: A Helm chart for Kubernetes
     digest: 6a555441d40d92c01f6439138a58f7efa6f6383bd9b4baf8843efad1f8219031
     name: devops
@@ -453,7 +453,7 @@ entries:
     version: 0.0.9
   - apiVersion: v2
     appVersion: 0.0.8
-    created: "2024-10-19T19:29:50.964377478Z"
+    created: "2024-10-20T20:26:51.947139856Z"
     description: A Helm chart for Kubernetes
     digest: e42fb947edafbb082639d9115c10ddd29505139c2cf4d9fc91a9cfc247a50248
     name: devops
@@ -463,7 +463,7 @@ entries:
     version: 0.0.8
   - apiVersion: v2
     appVersion: 0.0.7
-    created: "2024-10-19T19:29:50.964014804Z"
+    created: "2024-10-20T20:26:51.94648865Z"
     description: A Helm chart for Kubernetes
     digest: 19874992c90019a30e2a6a388465990fe11c8f7c80cd3444c2b37815013a6a0b
     name: devops
@@ -473,7 +473,7 @@ entries:
     version: 0.0.7
   - apiVersion: v2
     appVersion: 0.0.6
-    created: "2024-10-19T19:29:50.96362541Z"
+    created: "2024-10-20T20:26:51.945837704Z"
     description: A Helm chart for Kubernetes
     digest: 6136514ca685e99e7cbc55fcb7b680c26af301f62493febff97126a6316dcc8b
     name: devops
@@ -483,7 +483,7 @@ entries:
     version: 0.0.6
   - apiVersion: v2
     appVersion: 0.0.5
-    created: "2024-10-19T19:29:50.963269839Z"
+    created: "2024-10-20T20:26:51.944863803Z"
     description: A Helm chart for Kubernetes
     digest: 78411310094ff2803722794491a3329a23be8c089a2f71da62c4cd9d139258d1
     name: devops
@@ -493,7 +493,7 @@ entries:
     version: 0.0.5
   - apiVersion: v2
     appVersion: 0.0.4
-    created: "2024-10-19T19:29:50.962918967Z"
+    created: "2024-10-20T20:26:51.94407088Z"
     description: A Helm chart for Kubernetes
     digest: 1be475b379cf5d96e04bcb649fd9c1069c30812c3f7bb974759fdfbe4050de48
     name: devops
@@ -503,7 +503,7 @@ entries:
     version: 0.0.4
   - apiVersion: v2
     appVersion: 0.0.3
-    created: "2024-10-19T19:29:50.962572273Z"
+    created: "2024-10-20T20:26:51.94354463Z"
     description: A Helm chart for Kubernetes
     digest: c9164716085b42124482018c1549fae85a13103e730ba36bec404f890ac5b0e3
     name: devops
@@ -513,7 +513,7 @@ entries:
     version: 0.0.3
   - apiVersion: v2
     appVersion: 0.0.2
-    created: "2024-10-19T19:29:50.962228203Z"
+    created: "2024-10-20T20:26:51.943168932Z"
     description: A Helm chart for Kubernetes
     digest: ba326411c9ccff3184c92fd2d6b0cd9eb38be1522ddfb4a7787732bc6e9e6e9f
     name: devops
@@ -523,7 +523,7 @@ entries:
     version: 0.0.2
   - apiVersion: v2
     appVersion: 0.0.1
-    created: "2024-10-19T19:29:50.959860262Z"
+    created: "2024-10-20T20:26:51.940848724Z"
     description: A Helm chart for Kubernetes
     digest: ce6bd038adaf1c1cfd7f05418d260b20fe0310d0d5e0c4f0e83d07d91289c55a
     name: devops
@@ -533,8 +533,18 @@ entries:
     version: 0.0.1
   imap2telegram:
   - apiVersion: v2
+    appVersion: 0.4.3
+    created: "2024-10-20T20:26:51.973687957Z"
+    description: A Helm chart for Kubernetes
+    digest: fdc79f0721a1484cca4a5ded183237ac013e85008e98b06a7f6dba750c8919c0
+    name: imap2telegram
+    type: application
+    urls:
+    - https://oleksandr-mazur.github.io/helm/imap2telegram-0.4.3.tgz
+    version: 0.4.3
+  - apiVersion: v2
     appVersion: 0.4.2
-    created: "2024-10-19T19:29:50.985525275Z"
+    created: "2024-10-20T20:26:51.973417427Z"
     description: A Helm chart for Kubernetes
     digest: cb6e48a3ecbd3504c528ece16512887d83dcdcdd68dd2c62ac73bde6b5b5e742
     name: imap2telegram
@@ -544,7 +554,7 @@ entries:
     version: 0.4.2
   - apiVersion: v2
     appVersion: 0.4.1
-    created: "2024-10-19T19:29:50.985256866Z"
+    created: "2024-10-20T20:26:51.973147219Z"
     description: A Helm chart for Kubernetes
     digest: 1c4339df57026d720c9342b967ff474c32aa5f9940cb6f714aa8f92a7fd4c989
     name: imap2telegram
@@ -554,7 +564,7 @@ entries:
     version: 0.4.1
   - apiVersion: v2
     appVersion: 0.4.0
-    created: "2024-10-19T19:29:50.984987746Z"
+    created: "2024-10-20T20:26:51.972878262Z"
     description: A Helm chart for Kubernetes
     digest: 745c7055a8eeb8d23bd584761ec834d2cf8cd523ca1cba8a6605ba9dc9770a5a
     name: imap2telegram
@@ -564,7 +574,7 @@ entries:
     version: 0.4.0
   - apiVersion: v2
     appVersion: 0.3.1
-    created: "2024-10-19T19:29:50.984712184Z"
+    created: "2024-10-20T20:26:51.972610268Z"
     description: A Helm chart for Kubernetes
     digest: 02ef180358d37e1f9c915416ba2bb2e23963676a67a53d043f5adfe45fc101b8
     name: imap2telegram
@@ -574,7 +584,7 @@ entries:
     version: 0.3.1
   - apiVersion: v2
     appVersion: 0.3.0
-    created: "2024-10-19T19:29:50.984443194Z"
+    created: "2024-10-20T20:26:51.972342734Z"
     description: A Helm chart for Kubernetes
     digest: e6297d458bdad69c71815c2a09474790e675e656d3056f45873d8a3579fe0eb6
     name: imap2telegram
@@ -584,7 +594,7 @@ entries:
     version: 0.3.0
   - apiVersion: v2
     appVersion: 0.2.6
-    created: "2024-10-19T19:29:50.984170126Z"
+    created: "2024-10-20T20:26:51.972074869Z"
     description: A Helm chart for Kubernetes
     digest: 46c9318a7632ad45adaacbf4eee1e04cb25ecc7784bb271161b1a9e197c76655
     name: imap2telegram
@@ -594,7 +604,7 @@ entries:
     version: 0.2.6
   - apiVersion: v2
     appVersion: 0.2.5
-    created: "2024-10-19T19:29:50.983903601Z"
+    created: "2024-10-20T20:26:51.971808418Z"
     description: A Helm chart for Kubernetes
     digest: 4716c8f5173bc0976990928c6477c61e06b980fa05a8aa7817dc2bf33b9a4eef
     name: imap2telegram
@@ -604,7 +614,7 @@ entries:
     version: 0.2.5
   - apiVersion: v2
     appVersion: 0.2.4
-    created: "2024-10-19T19:29:50.983630263Z"
+    created: "2024-10-20T20:26:51.971534843Z"
     description: A Helm chart for Kubernetes
     digest: 9d93beca163880b26b3ddd4d0050e5bc54f3feb188c28adfa5e4926b0d31bdb3
     name: imap2telegram
@@ -614,7 +624,7 @@ entries:
     version: 0.2.4
   - apiVersion: v2
     appVersion: 0.2.3
-    created: "2024-10-19T19:29:50.983356464Z"
+    created: "2024-10-20T20:26:51.971234598Z"
     description: A Helm chart for Kubernetes
     digest: 3d7fad0fc9b0674b720f03b31a5495dca5dfa03feaef7bee897034b67f6c2951
     name: imap2telegram
@@ -624,7 +634,7 @@ entries:
     version: 0.2.3
   - apiVersion: v2
     appVersion: 0.2.2
-    created: "2024-10-19T19:29:50.983079359Z"
+    created: "2024-10-20T20:26:51.970963657Z"
     description: A Helm chart for Kubernetes
     digest: 56d56b1f28021f9ee99cfcfedc46e60dddbac00de9ac31307ddf7d44010f68a7
     name: imap2telegram
@@ -634,7 +644,7 @@ entries:
     version: 0.2.2
   - apiVersion: v2
     appVersion: 0.2.1
-    created: "2024-10-19T19:29:50.982796513Z"
+    created: "2024-10-20T20:26:51.970698408Z"
     description: A Helm chart for Kubernetes
     digest: e808536d6fb8fae161c98664bc4992a6d8430d9db9d77f111e3f6aa3b411f0c9
     name: imap2telegram
@@ -644,7 +654,7 @@ entries:
     version: 0.2.1
   - apiVersion: v2
     appVersion: 0.2.0
-    created: "2024-10-19T19:29:50.982492138Z"
+    created: "2024-10-20T20:26:51.970429582Z"
     description: A Helm chart for Kubernetes
     digest: c4b4f5e1f036fb798ba3ceda87bd25e35057754eba29a6a6c1637efd91b7a2b3
     name: imap2telegram
@@ -655,7 +665,7 @@ entries:
   imap2telegram-helm:
   - apiVersion: v2
     appVersion: 0.1.2
-    created: "2024-10-19T19:29:50.986543497Z"
+    created: "2024-10-20T20:26:51.975387817Z"
     description: A Helm chart for Kubernetes
     digest: 2c46c8d34ba3911596c8bdd4712c19d3c4e908bfb640732ab9a681b81c57bb76
     name: imap2telegram-helm
@@ -665,7 +675,7 @@ entries:
     version: 0.1.2
   - apiVersion: v2
     appVersion: 0.1.1
-    created: "2024-10-19T19:29:50.986301688Z"
+    created: "2024-10-20T20:26:51.975126615Z"
     description: A Helm chart for Kubernetes
     digest: fec25bd677a99e139f39f807ed53c6ff5663cab4039e870ad5965873a73a37d4
     name: imap2telegram-helm
@@ -675,7 +685,7 @@ entries:
     version: 0.1.1
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-10-19T19:29:50.986061381Z"
+    created: "2024-10-20T20:26:51.974759474Z"
     description: A Helm chart for Kubernetes
     digest: 9694fe77f19de64ca1f49584c9ffd6f2c0f9cc069dfb94189ffe96b48bb7565d
     name: imap2telegram-helm
@@ -695,7 +705,7 @@ entries:
     version: 0.0.10
   - apiVersion: v2
     appVersion: 0.0.5
-    created: "2024-10-19T19:29:50.985811577Z"
+    created: "2024-10-20T20:26:51.974123286Z"
     description: A Helm chart for Kubernetes
     digest: c4e04aed69465940d3e203b404a30197e97b0bd2f13aca80faaaf8a12ca69964
     name: imap2telegram-helm
@@ -706,7 +716,7 @@ entries:
   ntfy:
   - apiVersion: v2
     appVersion: v2.11.0
-    created: "2024-10-19T19:29:50.988340227Z"
+    created: "2024-10-20T20:26:51.977069684Z"
     description: A Helm chart for Kubernetes
     digest: 63caf773f642b3ea101d1b70ee3668951efd37fcf46c9bd01b351ccbba59e216
     name: ntfy
@@ -716,7 +726,7 @@ entries:
     version: 0.3.0
   - apiVersion: v2
     appVersion: v2.11.0
-    created: "2024-10-19T19:29:50.987725945Z"
+    created: "2024-10-20T20:26:51.976611662Z"
     description: A Helm chart for Kubernetes
     digest: 17fc3d4763ff17f0233609e84424a27966d5cd7f03bb7cf2df281881ce426cd2
     name: ntfy
@@ -726,7 +736,7 @@ entries:
     version: 0.2.1
   - apiVersion: v2
     appVersion: v2.11.0
-    created: "2024-10-19T19:29:50.98733088Z"
+    created: "2024-10-20T20:26:51.976219804Z"
     description: A Helm chart for Kubernetes
     digest: b601c7f0ba7f46eaf0b92c87016c21eec248c20ebcb44de6673d6dee36002820
     name: ntfy
@@ -736,7 +746,7 @@ entries:
     version: 0.2.0
   - apiVersion: v2
     appVersion: v2.11.0
-    created: "2024-10-19T19:29:50.986939323Z"
+    created: "2024-10-20T20:26:51.975818769Z"
     description: A Helm chart for Kubernetes
     digest: 36f3dddad9fa9a568be46fa1c79ff201baa8a5ebd8e7c26a602bf11e36c30c5c
     name: ntfy
@@ -747,7 +757,7 @@ entries:
   pay:
   - apiVersion: v2
     appVersion: 0.3.1
-    created: "2024-10-19T19:29:51.007814826Z"
+    created: "2024-10-20T20:26:51.994863495Z"
     description: A Helm chart for Kubernetes
     digest: bd1056a61b72ad1bd6b6a8dd695764ce1e2c33ca1cec0c9c81c25ce13c79303e
     name: pay
@@ -757,7 +767,7 @@ entries:
     version: 0.3.1
   - apiVersion: v2
     appVersion: 0.3.0
-    created: "2024-10-19T19:29:51.007324515Z"
+    created: "2024-10-20T20:26:51.994365136Z"
     description: A Helm chart for Kubernetes
     digest: de7d707f33f67d2d01f44be12ecda114b2bdfa9d53a3d7ebe349fdbb9438304e
     name: pay
@@ -767,7 +777,7 @@ entries:
     version: 0.3.0
   - apiVersion: v2
     appVersion: 0.2.2
-    created: "2024-10-19T19:29:51.006841778Z"
+    created: "2024-10-20T20:26:51.993890313Z"
     description: A Helm chart for Kubernetes
     digest: b20e0fb29a29f684588a7fb50f3ac975a0cc3197270737a3e1f6dcd5d6dac2b5
     name: pay
@@ -777,7 +787,7 @@ entries:
     version: 0.2.2
   - apiVersion: v2
     appVersion: 0.2.1
-    created: "2024-10-19T19:29:51.006355605Z"
+    created: "2024-10-20T20:26:51.993410409Z"
     description: A Helm chart for Kubernetes
     digest: 2b315d38445f0ea79cd1ef46704458b77a574461d6b25407b1156dd35c4cc231
     name: pay
@@ -787,7 +797,7 @@ entries:
     version: 0.2.1
   - apiVersion: v2
     appVersion: 0.2.0
-    created: "2024-10-19T19:29:51.005850075Z"
+    created: "2024-10-20T20:26:51.992935064Z"
     description: A Helm chart for Kubernetes
     digest: b4e0e9534987048f05da12e1626efe0bc4e6f65a5e5177a5c4c0c6610b032941
     name: pay
@@ -797,7 +807,7 @@ entries:
     version: 0.2.0
   - apiVersion: v2
     appVersion: 0.1.5
-    created: "2024-10-19T19:29:51.005136718Z"
+    created: "2024-10-20T20:26:51.992476781Z"
     description: A Helm chart for Kubernetes
     digest: 75e21049bf85727bf398dc373039c43ead26aac5fa2664740f31202080c9454b
     name: pay
@@ -807,7 +817,7 @@ entries:
     version: 0.1.5
   - apiVersion: v2
     appVersion: 0.1.4
-    created: "2024-10-19T19:29:51.004220585Z"
+    created: "2024-10-20T20:26:51.992017977Z"
     description: A Helm chart for Kubernetes
     digest: 2b779e968a8f3ebce72d401c9c0fe08cfdd3c5ab8d6ad834642dfe08e6842e33
     name: pay
@@ -817,7 +827,7 @@ entries:
     version: 0.1.4
   - apiVersion: v2
     appVersion: 0.1.3
-    created: "2024-10-19T19:29:51.003692945Z"
+    created: "2024-10-20T20:26:51.991545538Z"
     description: A Helm chart for Kubernetes
     digest: c4cd5ff5fb386fbb7cca1329eaa8618bbaae3ed9467b374b5b5e9e4252e2ab03
     name: pay
@@ -827,7 +837,7 @@ entries:
     version: 0.1.3
   - apiVersion: v2
     appVersion: 0.1.2
-    created: "2024-10-19T19:29:51.003117665Z"
+    created: "2024-10-20T20:26:51.991044074Z"
     description: A Helm chart for Kubernetes
     digest: b3dede96fcf69d46c8a91d5050f486b0383aec3d782db03e3d4c7a84242a7922
     name: pay
@@ -837,7 +847,7 @@ entries:
     version: 0.1.2
   - apiVersion: v2
     appVersion: 0.1.1
-    created: "2024-10-19T19:29:51.002638565Z"
+    created: "2024-10-20T20:26:51.990578978Z"
     description: A Helm chart for Kubernetes
     digest: 44d2a7250ff902c68000713b2db021f1d2c7dd261faabcfa4988664ba559b8e5
     name: pay
@@ -847,7 +857,7 @@ entries:
     version: 0.1.1
   - apiVersion: v2
     appVersion: 0.0.26
-    created: "2024-10-19T19:29:50.999384718Z"
+    created: "2024-10-20T20:26:51.986635671Z"
     description: A Helm chart for Kubernetes
     digest: f6fd0e4f63181b8a00fb7efd0ebd72ec14a73aef857b36598fc3aafab85f09fc
     name: pay
@@ -857,7 +867,7 @@ entries:
     version: 0.0.26
   - apiVersion: v2
     appVersion: 0.0.25
-    created: "2024-10-19T19:29:50.998922959Z"
+    created: "2024-10-20T20:26:51.986180123Z"
     description: A Helm chart for Kubernetes
     digest: 6f43c03c6e92a8529093ca10d5bf79263eb11de69970fd899000444536b8c525
     name: pay
@@ -867,7 +877,7 @@ entries:
     version: 0.0.25
   - apiVersion: v2
     appVersion: 0.0.24
-    created: "2024-10-19T19:29:50.998459368Z"
+    created: "2024-10-20T20:26:51.985719767Z"
     description: A Helm chart for Kubernetes
     digest: 3ab81a10997accebb5c71f13938edf82207a4423e87522d825f61aa8b9404427
     name: pay
@@ -877,7 +887,7 @@ entries:
     version: 0.0.24
   - apiVersion: v2
     appVersion: 0.0.23
-    created: "2024-10-19T19:29:50.997982942Z"
+    created: "2024-10-20T20:26:51.985257356Z"
     description: A Helm chart for Kubernetes
     digest: 0d6fa0bd3371cca73330ba62ed3ece4497105b215f3666576c9957ebaf24a9ac
     name: pay
@@ -887,7 +897,7 @@ entries:
     version: 0.0.23
   - apiVersion: v2
     appVersion: 0.0.22
-    created: "2024-10-19T19:29:50.997440284Z"
+    created: "2024-10-20T20:26:51.984800005Z"
     description: A Helm chart for Kubernetes
     digest: 2cd1c3903743cf3ff6b7e43faeb73bdd3f901c12e5388b12a13350dc433a8c3d
     name: pay
@@ -897,7 +907,7 @@ entries:
     version: 0.0.22
   - apiVersion: v2
     appVersion: 0.0.21
-    created: "2024-10-19T19:29:50.996131252Z"
+    created: "2024-10-20T20:26:51.984320983Z"
     description: A Helm chart for Kubernetes
     digest: 64754f4167f20f40997e15ac57d3f113530dc34bc9e52c83c7e23b9e48b65e31
     name: pay
@@ -907,7 +917,7 @@ entries:
     version: 0.0.21
   - apiVersion: v2
     appVersion: 0.0.20
-    created: "2024-10-19T19:29:50.995671608Z"
+    created: "2024-10-20T20:26:51.983852481Z"
     description: A Helm chart for Kubernetes
     digest: f1d0a127e46deae5018232faeb307703ceabb766739a8631dbd7ab0b329afc37
     name: pay
@@ -917,7 +927,7 @@ entries:
     version: 0.0.20
   - apiVersion: v2
     appVersion: 0.0.19
-    created: "2024-10-19T19:29:50.99472573Z"
+    created: "2024-10-20T20:26:51.982884228Z"
     description: A Helm chart for Kubernetes
     digest: 3f74bc201994339811f5da230552041e1b3921e3ff4cc03715c671f3a7348cf9
     name: pay
@@ -927,7 +937,7 @@ entries:
     version: 0.0.19
   - apiVersion: v2
     appVersion: 0.0.18
-    created: "2024-10-19T19:29:50.994259504Z"
+    created: "2024-10-20T20:26:51.982388475Z"
     description: A Helm chart for Kubernetes
     digest: 453c3a91b36fa4740c0887118c202939775262d78c209b4180e179b739912b9d
     name: pay
@@ -937,7 +947,7 @@ entries:
     version: 0.0.18
   - apiVersion: v2
     appVersion: 0.0.17
-    created: "2024-10-19T19:29:50.993668015Z"
+    created: "2024-10-20T20:26:51.981198888Z"
     description: A Helm chart for Kubernetes
     digest: e83945467c97f98aadf1eec82011958967d1195908c3cecd88b64ab1adb5d223
     name: pay
@@ -947,7 +957,7 @@ entries:
     version: 0.0.17
   - apiVersion: v2
     appVersion: 0.0.16
-    created: "2024-10-19T19:29:50.992828004Z"
+    created: "2024-10-20T20:26:51.980749251Z"
     description: A Helm chart for Kubernetes
     digest: c7b5fdfce4e20902718a1036037e8ba846471fbc8141540929b260deb1c10e89
     name: pay
@@ -957,7 +967,7 @@ entries:
     version: 0.0.16
   - apiVersion: v2
     appVersion: 0.0.15
-    created: "2024-10-19T19:29:50.992168628Z"
+    created: "2024-10-20T20:26:51.980300536Z"
     description: A Helm chart for Kubernetes
     digest: 9a1f27e038f97adc8ad80388557ae7074ef166562565dc64c7497d59400484f5
     name: pay
@@ -967,7 +977,7 @@ entries:
     version: 0.0.15
   - apiVersion: v2
     appVersion: 0.0.14
-    created: "2024-10-19T19:29:50.991718892Z"
+    created: "2024-10-20T20:26:51.979847644Z"
     description: A Helm chart for Kubernetes
     digest: 13cc6a2c40863a2ecb38555dc88399fbbff4aa37718f3480c2abfc9631470f05
     name: pay
@@ -977,7 +987,7 @@ entries:
     version: 0.0.14
   - apiVersion: v2
     appVersion: 0.0.13
-    created: "2024-10-19T19:29:50.99126057Z"
+    created: "2024-10-20T20:26:51.979353133Z"
     description: A Helm chart for Kubernetes
     digest: 7d14953b68ef349c8106b68db844080dc483d4aed82f3f56ba0c4f7c133b1ba1
     name: pay
@@ -987,7 +997,7 @@ entries:
     version: 0.0.13
   - apiVersion: v2
     appVersion: 0.0.12
-    created: "2024-10-19T19:29:50.990795556Z"
+    created: "2024-10-20T20:26:51.97890046Z"
     description: A Helm chart for Kubernetes
     digest: 2818698a0e2c8ff0fb2228caaf25279af52afce306132ff0c94d6e6c28a24715
     name: pay
@@ -997,7 +1007,7 @@ entries:
     version: 0.0.12
   - apiVersion: v2
     appVersion: 0.0.11
-    created: "2024-10-19T19:29:50.990336182Z"
+    created: "2024-10-20T20:26:51.978445454Z"
     description: A Helm chart for Kubernetes
     digest: b8f73ea39e9b9394461011d8dffbfbd52fbb44917eaa285ba645345d439b7da0
     name: pay
@@ -1007,7 +1017,7 @@ entries:
     version: 0.0.11
   - apiVersion: v2
     appVersion: 0.0.10
-    created: "2024-10-19T19:29:50.989864425Z"
+    created: "2024-10-20T20:26:51.977987211Z"
     description: A Helm chart for Kubernetes
     digest: a3a79a2c79621df8111f8c716ecbd225700041f1c73bcd42a78547fb20a9deb7
     name: pay
@@ -1017,7 +1027,7 @@ entries:
     version: 0.0.10
   - apiVersion: v2
     appVersion: 0.0.9
-    created: "2024-10-19T19:29:51.002173591Z"
+    created: "2024-10-20T20:26:51.990104204Z"
     description: A Helm chart for Kubernetes
     digest: df1453f2082bab4b5b15490a1bab01db54734de3f9974001aa9815ca963a1093
     name: pay
@@ -1027,7 +1037,7 @@ entries:
     version: 0.0.9
   - apiVersion: v2
     appVersion: 0.0.8
-    created: "2024-10-19T19:29:51.001674844Z"
+    created: "2024-10-20T20:26:51.989609362Z"
     description: A Helm chart for Kubernetes
     digest: 32fb42dc4402bc7ec335e561f297b833171392f24f6368e5e328746f6ceb508e
     name: pay
@@ -1037,7 +1047,7 @@ entries:
     version: 0.0.8
   - apiVersion: v2
     appVersion: 0.0.7
-    created: "2024-10-19T19:29:51.0011938Z"
+    created: "2024-10-20T20:26:51.988464324Z"
     description: A Helm chart for Kubernetes
     digest: b7ca8b49973ae5a7cec90a3eb8554b7f71b4a2f1e2983af88a28a4575378e6c4
     name: pay
@@ -1047,7 +1057,7 @@ entries:
     version: 0.0.7
   - apiVersion: v2
     appVersion: 0.0.6
-    created: "2024-10-19T19:29:51.000741028Z"
+    created: "2024-10-20T20:26:51.988012162Z"
     description: A Helm chart for Kubernetes
     digest: 483853a982fd2fbec8d56980fc4fd1c997247789d9337aca28d97ee221035983
     name: pay
@@ -1057,7 +1067,7 @@ entries:
     version: 0.0.6
   - apiVersion: v2
     appVersion: 0.0.5
-    created: "2024-10-19T19:29:51.000289559Z"
+    created: "2024-10-20T20:26:51.987555292Z"
     description: A Helm chart for Kubernetes
     digest: 9db83df94118ad6dbad6185fede6ec00d40fb2bfe383dddbcc04223368809cf3
     name: pay
@@ -1067,7 +1077,7 @@ entries:
     version: 0.0.5
   - apiVersion: v2
     appVersion: 0.0.3
-    created: "2024-10-19T19:29:50.999833702Z"
+    created: "2024-10-20T20:26:51.987083594Z"
     description: A Helm chart for Kubernetes
     digest: c7000326b3d158630a4c60a647711d16627767c752455e8d1b2ffb7fe5e81fbe
     name: pay
@@ -1077,7 +1087,7 @@ entries:
     version: 0.0.3
   - apiVersion: v2
     appVersion: 0.0.2
-    created: "2024-10-19T19:29:50.995206043Z"
+    created: "2024-10-20T20:26:51.983350566Z"
     description: A Helm chart for Kubernetes
     digest: a5cfde9989bd73335f143dbbd15a51268562ac0489e9caeb74377bb04156a879
     name: pay
@@ -1087,7 +1097,7 @@ entries:
     version: 0.0.2
   - apiVersion: v2
     appVersion: 0.0.1
-    created: "2024-10-19T19:29:50.989343087Z"
+    created: "2024-10-20T20:26:51.977527175Z"
     description: A Helm chart for Kubernetes
     digest: 3eb8961cb7dbb295abdc032e39637e6f7f0427092f27a753c671ca260cb37184
     name: pay
@@ -1098,7 +1108,7 @@ entries:
   zap-dashboard:
   - apiVersion: v2
     appVersion: 0.0.2
-    created: "2024-10-19T19:29:51.008570901Z"
+    created: "2024-10-20T20:26:51.995661697Z"
     description: A Helm chart for Kubernetes
     digest: 7d2e9aada719c4cd4c31441c437849b059f27e0821b93e32b67b9b636491331b
     name: zap-dashboard
@@ -1108,7 +1118,7 @@ entries:
     version: 0.0.2
   - apiVersion: v2
     appVersion: 0.0.1
-    created: "2024-10-19T19:29:51.008186737Z"
+    created: "2024-10-20T20:26:51.995239783Z"
     description: A Helm chart for Kubernetes
     digest: 58e8850c4ba32ee6ca4fc640e2847edcde4396d86b9322778984ea3c8bc9f5eb
     name: zap-dashboard
@@ -1116,4 +1126,4 @@ entries:
     urls:
     - https://oleksandr-mazur.github.io/helm/zap-dashboard-0.0.1.tgz
     version: 0.0.1
-generated: "2024-10-19T19:29:50.959351517Z"
+generated: "2024-10-20T20:26:51.940355646Z"
